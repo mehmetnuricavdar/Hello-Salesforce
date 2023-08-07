@@ -1,0 +1,2 @@
+SELECT Name, LastModifiedDate
+  FROM Bicycle__c
